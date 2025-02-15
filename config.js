@@ -3,9 +3,9 @@ require("dotenv").config();
 
 module.exports = {
   //==========================================- MAIN - CONFIGS -==================================================================
-  SESSION_ID: process.env.SESSION_ID || "", // ADD Your Session Id 
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "", //add owner number
-  OWNER_REACT_NUMBER: process.env.OWNER_REACT_NUMBER || "", // add you owner number
+  SESSION_ID: process.env.SESSION_ID || "qmp31QQK#6ejKdp3jPSXVY-S659niuQ2Hb1t69iF1fzGF1RZ84cs", // ADD Your Session Id 
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "917002015750", //add owner number
+  OWNER_REACT_NUMBER: process.env.OWNER_REACT_NUMBER || "✝️", // add you owner number
   OWNER_REACT: process.env.OWNER_REACT || "🙂", //add you owner emoji
   PREFIX: process.env.PREFIX || ".", // Add Your Custom Prefix
   mode: process.env.mode || "private",// Add Your Bot Mode 👇
