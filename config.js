@@ -7,7 +7,7 @@ module.exports = {
   OWNER_NUMBER: process.env.OWNER_NUMBER || "917002015750", //add owner number
   OWNER_REACT_NUMBER: process.env.OWNER_REACT_NUMBER || "✝️", // add you owner number
   OWNER_REACT: process.env.OWNER_REACT || "🙂", //add you owner emoji
-  PREFIX: process.env.PREFIX || ".", // Add Your Custom Prefix
+  PREFIX: process.env.PREFIX || "#", // Add Your Custom Prefix
   mode: process.env.mode || "private",// Add Your Bot Mode 👇
  //==================================================API KEY======================================================================
   MOVIE_API_KEY: process.env.MOVIE_API_KEY || "sky|decd54b4fa030634e54d6c87fdffbb95f0bb9fb5", // https://api.skymansion.site/movies-dl
